@@ -1,6 +1,9 @@
 # sales-analysis-dashboard
 Sales dataset analysis using Excel to uncover business insights and build an interactive dashboard
 
+# Dashboard Preview
+![dashboard](IMG_8507.jpeg)
+
 # Project Title
 Sales Performance Analysis
 
